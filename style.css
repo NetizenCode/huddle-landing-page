@@ -50,3 +50,13 @@ button {
     color: hsl(257, 40%, 49%);
     filter: drop-shadow(1px 1px 4px rgb(54, 52, 52));
 }
+.socials {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.social-link {
+    width: 30px;
+    color: white;
+    border: none;
+}
